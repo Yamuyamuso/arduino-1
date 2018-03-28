@@ -1,3 +1,5 @@
 {
-    "board": "arduino:samd:mzero_pro_bl_dbg"
+    "board": "arduino:samd:mzero_pro_bl_dbg",
+    "port": "COM31",
+    "sketch": "main.ino"
 }
